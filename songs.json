@@ -52,6 +52,11 @@
       "name": "Background",
       "files": [
         {
+          "name": "(Piano Cover) Patchwork Staccato - Toa",
+          "url": "https://audio.hawksley.dev/songs/Background/(Piano Cover) Patchwork Staccato - Toa.ogg",
+          "duration": 254
+        },
+        {
           "name": "01 Bolero For Orchestra",
           "url": "https://audio.hawksley.dev/songs/Background/01 Bolero for Orchestra.ogg",
           "duration": 788
@@ -315,6 +320,16 @@
           "name": "AC Syndicate OST ⧸ Austin Wintory - Danza Alla Daggers",
           "url": "https://audio.hawksley.dev/songs/Background/AC Syndicate OST ⧸ Austin Wintory - Danza alla Daggers.ogg",
           "duration": 191
+        },
+        {
+          "name": "Absolum OST - Mansion Of The Cult",
+          "url": "https://audio.hawksley.dev/songs/Background/Absolum OST - Mansion of the Cult.ogg",
+          "duration": 186
+        },
+        {
+          "name": "Absolum OST - The Citadel",
+          "url": "https://audio.hawksley.dev/songs/Background/Absolum OST - The Citadel.ogg",
+          "duration": 121
         },
         {
           "name": "Amelie Soundtrack 4 - Comptine D Un Autre été： L Après-midi",
